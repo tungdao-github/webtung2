@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable> <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+   
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.2" />
+   
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="MySql.Data" Version="9.2.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="9.0.0-preview.2.efcore.9.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="TestApp\appsettings.Development.json" />
+    <_ContentIncludedByDefault Remove="TestApp\appsettings.json" />
+    <_ContentIncludedByDefault Remove="TestApp\Properties\launchSettings.json" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\Error.cshtml" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\Privacy.cshtml" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\Shared\_Layout.cshtml" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\Shared\_ValidationScriptsPartial.cshtml" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\_ViewImports.cshtml" />
+    <_ContentIncludedByDefault Remove="TestApp\Pages\_ViewStart.cshtml" />
+  </ItemGroup>
+
+</Project>

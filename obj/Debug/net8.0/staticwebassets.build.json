@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "eZvU/aqZjZ3YZYoiGqXzq+/8KrP+m1N9JDIGU3xsqs8=",
+  "Source": "WebApplication2",
+  "BasePath": "_content/WebApplication2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication2\\wwwroot",
+      "Source": "WebApplication2",
+      "ContentRoot": "C:\\Users\\Toan\\RiderProjects\\sourcescode\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Toan\\RiderProjects\\sourcescode\\WebApplication2\\wwwroot\\Text",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Toan\\RiderProjects\\sourcescode\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "Text#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z0k4fkazc8",
+      "Integrity": "Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Text"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Text",
+      "AssetFile": "C:\\Users\\Toan\\RiderProjects\\sourcescode\\WebApplication2\\wwwroot\\Text",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 00:37:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc="
+        }
+      ]
+    },
+    {
+      "Route": "Text.z0k4fkazc8",
+      "AssetFile": "C:\\Users\\Toan\\RiderProjects\\sourcescode\\WebApplication2\\wwwroot\\Text",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 00:37:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z0k4fkazc8"
+        },
+        {
+          "Name": "label",
+          "Value": "Text"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc="
+        }
+      ]
+    }
+  ]
+}

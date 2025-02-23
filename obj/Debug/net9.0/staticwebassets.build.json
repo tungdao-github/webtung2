@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "2LcHKptp3RZt500w+7+a8BcPJs7nj5i0gDVdQeYcZRg=",
+  "Source": "WebApplication2",
+  "BasePath": "_content/WebApplication2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication2\\wwwroot",
+      "Source": "WebApplication2",
+      "ContentRoot": "C:\\Users\\phong\\Downloads\\sourcescode20 (1)\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\phong\\Downloads\\sourcescode20 (1)\\WebApplication2\\wwwroot\\Text",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phong\\Downloads\\sourcescode20 (1)\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "Text#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z0k4fkazc8",
+      "Integrity": "Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Text"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Text",
+      "AssetFile": "C:\\Users\\phong\\Downloads\\sourcescode20 (1)\\WebApplication2\\wwwroot\\Text",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 16:41:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc="
+        }
+      ]
+    },
+    {
+      "Route": "Text.z0k4fkazc8",
+      "AssetFile": "C:\\Users\\phong\\Downloads\\sourcescode20 (1)\\WebApplication2\\wwwroot\\Text",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 16:41:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z0k4fkazc8"
+        },
+        {
+          "Name": "label",
+          "Value": "Text"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y93d+NXKvQ1giKVhMDkegRptQu8HR4IFfj/JIxp69kc="
+        }
+      ]
+    }
+  ]
+}
