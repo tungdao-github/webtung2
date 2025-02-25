@@ -31,6 +31,7 @@ public class EmailService
             }
             return true;
         }
+        
         catch (Exception ex)
         {
             Console.WriteLine ($"Loi gui mail: {ex.Message}");
