@@ -27,7 +27,7 @@ public class LoginController : Controller
             .Include(t => t.VaiTro)
             .FirstOrDefaultAsync(t => t.Gmail == request.Email);
 
-        if (user == null || user.MatKhau != request.Password) 
+        if (user == null || !BCrypt.Net.BCrypt.Verify(request.Password, user.MatKhau)) 
             return Unauthorized(new { Message = "dang nhap false" });
 
         // Tạo JWT Token
