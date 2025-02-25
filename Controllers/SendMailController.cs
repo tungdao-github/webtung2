@@ -39,7 +39,6 @@ namespace WebApplication2.Controllers
             bool emailSent = _emailService.SendEmail(user.Gmail, newPassword);
             if (!emailSent)
                 return StatusCode(500, new { Message = "Không thể gửi email" });
-
             
             return Ok(new { Message = "Mật khẩu mới đã được gửi tới email của bạn" });
         }
