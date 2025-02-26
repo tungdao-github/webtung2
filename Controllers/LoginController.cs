@@ -45,7 +45,7 @@ public class LoginController : Controller
         {
             new Claim(ClaimTypes.Name, user.Gmail),
             new Claim("MaSinhVien", user.MaSinhVien.ToString()),
-            new Claim(ClaimTypes.Role, user.VaiTro?.Ten ?? "User"),
+            new Claim("VaiTroId", user.VaiTroId.ToString()),
         };
 
         var token = new JwtSecurityToken(
