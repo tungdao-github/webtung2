@@ -2,12 +2,13 @@ using Microsoft.AspNetCore.Mvc;
 using WebApplication2.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authorization;
+using WebApplication2.Middleware;
 
 namespace WebApplication2.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [AuthorizeRole(2)]
     public class TaiKhoanController : ControllerBase
     {
         private readonly SinhVienDbContext _context;
