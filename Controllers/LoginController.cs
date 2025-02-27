@@ -6,6 +6,8 @@ using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Authorization;
+using NuGet.Protocol.Plugins;
 
 namespace WebApplication2.Controllers;
 
@@ -58,7 +60,50 @@ public class LoginController : Controller
         return new JwtSecurityTokenHandler().WriteToken(token);
     }
 
+    [Authorize]
+    [HttpPost("ChangePassword")]
+    public async Task<IActionResult> ChangePassword([FromBody] ChangePasswordRequest request)
+    {
+        //Email token
+        var email = User.FindFirst(ClaimTypes.Name)?.Value;
 
+        if (string.IsNullOrEmpty(email))
+        {
+            return Unauthorized(new { Message = "Bạn chưa đăng nhập" });
+        }
+        
+        var user = await _context.Taikhoans.FirstOrDefaultAsync(t => t.Gmail == email);
+        if (user == null)
+        {
+            return NotFound(new { Message = "User not found" });
+        }
+        
+        //check old password
+        if (!BCrypt.Net.BCrypt.Verify(request.OldPassword, user.MatKhau))
+        {
+            return Unauthorized(new {Message = "Mật khẩu cũ không đúng"});
+        }
+
+        if (request.NewPassword != request.ConfirmPassword)
+        {
+            return BadRequest(new { Message = "Mật khẩu không trùng khớp" });
+        }
+        
+        //Hash password and save database
+        user.MatKhau = BCrypt.Net.BCrypt.HashPassword(request.NewPassword);
+        await _context.SaveChangesAsync();
+
+        return Ok(new { Message = "Đổi mật khẩu thành công" });
+    }
+
+
+    public class ChangePasswordRequest
+    {
+        public string OldPassword { get; set; }
+        public string NewPassword { get; set;  }
+        public string ConfirmPassword { get; set;  }
+    }
+    
     public class LoginRequest
     {
         public string Email { get; set; }
