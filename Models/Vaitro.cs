@@ -7,7 +7,7 @@ public partial class Vaitro
 {
     public int VaiTroId { get; set; }
 
-    public string Ten { get; set; } = null!;
+    public string? Ten { get; set; }
 
     public virtual ICollection<Taikhoan> Taikhoans { get; set; } = new List<Taikhoan>();
 }

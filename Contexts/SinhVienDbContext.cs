@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using Pomelo.EntityFrameworkCore.MySql.Scaffolding.Internal;
 using WebApplication2.Models;
 
-namespace WebApplication2.Contexts;
+namespace WebApplication2.contexts;
 
 public partial class SinhVienDbContext : DbContext
 {
@@ -16,14 +15,6 @@ public partial class SinhVienDbContext : DbContext
         : base(options)
     {
     }
-
-    public virtual DbSet<Dangkihoc> Dangkihocs { get; set; }
-
-    public virtual DbSet<Diem> Diems { get; set; }
-
-    public virtual DbSet<Hocphi> Hocphis { get; set; }
-
-    public virtual DbSet<Monhoc> Monhocs { get; set; }
 
     public virtual DbSet<Sinhvien> Sinhviens { get; set; }
 
@@ -40,112 +31,25 @@ public partial class SinhVienDbContext : DbContext
         optionsBuilder.UseMySql(config.GetConnectionString("DefaultConnection"), 
             Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.4.32-mariadb"));
     }
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder
-            .UseCollation("utf8mb4_general_ci")
-            .HasCharSet("utf8mb4");
-
-        modelBuilder.Entity<Dangkihoc>(entity =>
-        {
-            entity.HasKey(e => e.Id).HasName("PRIMARY");
-
-            entity.ToTable("dangkihoc");
-
-            entity.HasIndex(e => e.MaMonHoc, "MaMonHoc");
-
-            entity.HasIndex(e => new { e.MaSinhVien, e.MaMonHoc }, "uq_dangkihoc").IsUnique();
-
-            entity.Property(e => e.Id).HasColumnType("int(11)");
-            entity.Property(e => e.MaMonHoc).HasMaxLength(100);
-            entity.Property(e => e.MaSinhVien).HasMaxLength(100);
-
-            entity.HasOne(d => d.MaMonHocNavigation).WithMany(p => p.Dangkihocs)
-                .HasForeignKey(d => d.MaMonHoc)
-                .HasConstraintName("dangkihoc_ibfk_2");
-
-            entity.HasOne(d => d.MaSinhVienNavigation).WithMany(p => p.Dangkihocs)
-                .HasForeignKey(d => d.MaSinhVien)
-                .HasConstraintName("dangkihoc_ibfk_1");
-        });
-
-        modelBuilder.Entity<Diem>(entity =>
-        {
-            entity.HasKey(e => new { e.MaSinhVien, e.MaMonHoc })
-                .HasName("PRIMARY")
-                .HasAnnotation("MySql:IndexPrefixLength", new[] { 0, 0 });
-
-            entity.ToTable("diem");
-
-            entity.HasIndex(e => e.MaMonHoc, "MaMonHoc");
-
-            entity.Property(e => e.MaSinhVien).HasMaxLength(100);
-            entity.Property(e => e.MaMonHoc).HasMaxLength(100);
-
-            entity.HasOne(d => d.MaMonHocNavigation).WithMany(p => p.Diems)
-                .HasForeignKey(d => d.MaMonHoc)
-                .HasConstraintName("diem_ibfk_2");
-
-            entity.HasOne(d => d.MaSinhVienNavigation).WithMany(p => p.Diems)
-                .HasForeignKey(d => d.MaSinhVien)
-                .HasConstraintName("diem_ibfk_1");
-        });
-
-        modelBuilder.Entity<Hocphi>(entity =>
-        {
-            entity.HasKey(e => new { e.MaSinhVien, e.MaMonHoc })
-                .HasName("PRIMARY")
-                .HasAnnotation("MySql:IndexPrefixLength", new[] { 0, 0 });
-
-            entity.ToTable("hocphi");
-
-            entity.HasIndex(e => e.MaMonHoc, "MaMonHoc");
-
-            entity.Property(e => e.MaSinhVien).HasMaxLength(100);
-            entity.Property(e => e.MaMonHoc).HasMaxLength(100);
-            entity.Property(e => e.ThanhTien).HasColumnType("int(11)");
-
-            entity.HasOne(d => d.MaMonHocNavigation).WithMany(p => p.Hocphis)
-                .HasForeignKey(d => d.MaMonHoc)
-                .HasConstraintName("hocphi_ibfk_2");
-
-            entity.HasOne(d => d.MaSinhVienNavigation).WithMany(p => p.Hocphis)
-                .HasForeignKey(d => d.MaSinhVien)
-                .HasConstraintName("hocphi_ibfk_1");
-        });
-
-        modelBuilder.Entity<Monhoc>(entity =>
-        {
-            entity.HasKey(e => e.MaMonHoc).HasName("PRIMARY");
-
-            entity.ToTable("monhoc");
-
-            entity.HasIndex(e => e.MaSinhVien, "MaSinhVien");
-
-            entity.Property(e => e.MaMonHoc).HasMaxLength(100);
-            entity.Property(e => e.GiaHocPhi).HasColumnType("int(11)");
-            entity.Property(e => e.MaSinhVien).HasMaxLength(100);
-            entity.Property(e => e.SoTinChi).HasColumnType("int(11)");
-            entity.Property(e => e.TenMonHoc).HasMaxLength(100);
-            entity.Property(e => e.ThanhTien).HasColumnType("int(11)");
-
-            entity.HasOne(d => d.MaSinhVienNavigation).WithMany(p => p.Monhocs)
-                .HasForeignKey(d => d.MaSinhVien)
-                .HasConstraintName("monhoc_ibfk_1");
-        });
-
         modelBuilder.Entity<Sinhvien>(entity =>
         {
             entity.HasKey(e => e.MaSinhVien).HasName("PRIMARY");
 
             entity.ToTable("sinhvien");
 
-            entity.Property(e => e.MaSinhVien).HasMaxLength(100);
-            entity.Property(e => e.Cmnd).HasMaxLength(100);
-            entity.Property(e => e.DanToc).HasMaxLength(100);
-            entity.Property(e => e.SoDienThoai).HasMaxLength(100);
-            entity.Property(e => e.TenSinhVien).HasMaxLength(100);
+            entity.Property(e => e.MaSinhVien).HasMaxLength(10);
+            entity.Property(e => e.BaoHiem).HasColumnType("bit(1)");
+            entity.Property(e => e.Cccd).HasMaxLength(12);
+            entity.Property(e => e.DanToc).HasMaxLength(20);
+            entity.Property(e => e.GioiTinh).HasMaxLength(3);
+            entity.Property(e => e.HocPhi).HasPrecision(10);
+            entity.Property(e => e.Lop).HasMaxLength(100);
+            entity.Property(e => e.NgaySinh).HasColumnType("date");
+            entity.Property(e => e.SoDienThoai).HasMaxLength(15);
+            entity.Property(e => e.TenSinhVien).HasMaxLength(50);
+            entity.Property(e => e.TinhTrangHocTap).HasMaxLength(100);
         });
 
         modelBuilder.Entity<Taikhoan>(entity =>
@@ -158,19 +62,17 @@ public partial class SinhVienDbContext : DbContext
 
             entity.HasIndex(e => e.VaiTroId, "VaiTroId");
 
-            entity.Property(e => e.TaiKhoanId).HasColumnType("int(11)");
-            entity.Property(e => e.Gmail).HasMaxLength(100);
-            entity.Property(e => e.MaSinhVien).HasMaxLength(100);
-            entity.Property(e => e.MatKhau).HasMaxLength(100);
-            entity.Property(e => e.VaiTroId).HasColumnType("int(11)");
+            entity.Property(e => e.Gmail).HasMaxLength(50);
+            entity.Property(e => e.MaSinhVien).HasMaxLength(10);
+            entity.Property(e => e.MatKhau).HasMaxLength(255);
 
             entity.HasOne(d => d.MaSinhVienNavigation).WithMany(p => p.Taikhoans)
                 .HasForeignKey(d => d.MaSinhVien)
-                .HasConstraintName("taikhoan_ibfk_2");
+                .HasConstraintName("taikhoan_ibfk_1");
 
             entity.HasOne(d => d.VaiTro).WithMany(p => p.Taikhoans)
                 .HasForeignKey(d => d.VaiTroId)
-                .HasConstraintName("taikhoan_ibfk_1");
+                .HasConstraintName("taikhoan_ibfk_2");
         });
 
         modelBuilder.Entity<Vaitro>(entity =>
@@ -179,10 +81,7 @@ public partial class SinhVienDbContext : DbContext
 
             entity.ToTable("vaitro");
 
-            entity.Property(e => e.VaiTroId)
-                .ValueGeneratedNever()
-                .HasColumnType("int(11)");
-            entity.Property(e => e.Ten).HasMaxLength(100);
+            entity.Property(e => e.Ten).HasMaxLength(50);
         });
 
         OnModelCreatingPartial(modelBuilder);
