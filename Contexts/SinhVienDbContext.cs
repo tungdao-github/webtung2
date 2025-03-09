@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Models;
 
-namespace WebApplication2.contexts;
+namespace WebApplication2.Contexts;
 
 public partial class SinhVienDbContext : DbContext
 {
