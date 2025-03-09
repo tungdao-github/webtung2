@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using WebApplication2.Contexts;
+using WebApplication2.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authorization;
 using WebApplication2.Middleware;

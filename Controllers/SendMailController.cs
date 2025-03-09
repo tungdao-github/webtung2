@@ -20,7 +20,7 @@ namespace WebApplication2.Controllers
         }
 
         [HttpPost("send-password")]
-        public async Task<IActionResult> SendPassword([FromForm] EmailRequest request)
+        public async Task<IActionResult> SendPassword([FromBody] EmailRequest request)
         {
             var user = await _context.Taikhoans.FirstOrDefaultAsync(t => t.Gmail == request.Email);
             if (user == null)

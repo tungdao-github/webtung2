@@ -35,8 +35,14 @@ namespace WebApplication2.Controllers
                         d.GioiTinh,
                         d.NgaySinh,
                         d.SoDienThoai,
-                        d.Cmnd,
-                        d.DanToc
+                        d.Cccd,
+                        d.DanToc,
+                        d.Lop,
+                        d.BaoHiem,
+                        d.HocPhi,
+                        d.TrungBinhTrungTichLuy,
+                        d.SoLuongDiemF,
+                        d.TinhTrangHocTap
                     })
                     .ToListAsync();
                 return Ok(sinhvien);
