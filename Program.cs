@@ -1,10 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-/*using WebApplication2.Contexts;*/
+using WebApplication2.Contexts;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
-using WebApplication2.Contexts;
+using WebApplication2.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -43,16 +43,17 @@ builder.Services.AddSwaggerGen(options =>
 });
 builder.Services.AddCors(option =>
 {
-    option.AddPolicy("AllowAnyOrigin", builder =>
-    {
-        builder.AllowAnyOrigin()
-            .AllowAnyMethod()
-            .AllowAnyHeader();
-    });
+    option.AddPolicy("AllowAll", 
+        policy =>
+        {
+            policy.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader(); 
+        });
 });
 
 builder.Services.AddDbContext<SinhVienDbContext>(options =>
-    options.UseMySql(builder.Configuration.GetConnectionString("SinhVienDb"),
+    options.UseMySql(builder.Configuration.GetConnectionString("sinhvienhp"),
         new MySqlServerVersion(new Version(8, 0, 23))));
 
 builder.Services.AddControllers()
@@ -85,7 +86,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors("AllowAnyOrigin");
+app.UseCors("AllowAll");
 
 app.UseDefaultFiles();
 app.UseStaticFiles();
