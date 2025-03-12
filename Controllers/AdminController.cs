@@ -12,6 +12,7 @@ using WebApplication2.Models;
 
 namespace WebApplication2.Controllers
 {
+    [AuthorizeRole(1)]
     [Route("api/[controller]")]
     [ApiController]
     public class AdminController : ControllerBase
