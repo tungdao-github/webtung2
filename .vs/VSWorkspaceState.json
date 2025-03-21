@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contexts",
+    "\\Controllers",
+    "\\Filters",
+    "\\Models",
+    "\\wwwroot",
+    "\\wwwroot\\assets",
+    "\\wwwroot\\assets\\js",
+    "\\wwwroot\\uploads"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -15,8 +15,9 @@ public partial class SinhVienDbContext : DbContext
         : base(options)
     {
     }
+    public DbSet<Sinhvien> Sinhviens { get; set; }
 
-    public virtual DbSet<Sinhvien> Sinhviens { get; set; }
+    //public virtual DbSet<Sinhvien> Sinhviens { get; set; }
 
     public virtual DbSet<Taikhoan> Taikhoans { get; set; }
 
@@ -33,6 +34,33 @@ public partial class SinhVienDbContext : DbContext
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        //modelBuilder.Entity<Sinhvien>(entity =>
+        //{
+        //    entity.HasKey(e => e.MaSinhVien).HasName("PRIMARY");
+
+        //    entity.ToTable("sinhvien");
+
+        //    entity.Property(e => e.MaSinhVien).HasMaxLength(10);
+        //    entity.Property(e => e.BaoHiem).HasColumnType("bit(1)");
+        //    entity.Property(e => e.Cccd).HasMaxLength(12);
+        //    entity.Property(e => e.DanToc).HasMaxLength(20);
+        //    entity.Property(e => e.GioiTinh).HasMaxLength(3);
+        //    entity.Property(e => e.HocPhi).HasPrecision(10);
+        //    entity.Property(e => e.Lop).HasMaxLength(100);
+        //    entity.Property(e => e.NgaySinh).HasColumnType("date");
+        //    entity.Property(e => e.SoDienThoai).HasMaxLength(15);
+        //    entity.Property(e => e.TenSinhVien).HasMaxLength(50);
+        //    entity.Property(e => e.TinhTrangHocTap).HasMaxLength(100);
+        //    //entity.Property(e => e.CoVan).HasMaxLength(50);
+        //    //entity.Property(e => e.XepLoai).HasMaxLength(20);
+
+        //});
+
+        //modelBuilder.Entity<Sinhvien>(entity =>
+        //{
+        //    entity.Property(e => e.XepLoai).HasColumnType("longtext");
+        //    entity.Property(e => e.CoVan).HasColumnType("longtext");
+        //});
         modelBuilder.Entity<Sinhvien>(entity =>
         {
             entity.HasKey(e => e.MaSinhVien).HasName("PRIMARY");
@@ -50,6 +78,10 @@ public partial class SinhVienDbContext : DbContext
             entity.Property(e => e.SoDienThoai).HasMaxLength(15);
             entity.Property(e => e.TenSinhVien).HasMaxLength(50);
             entity.Property(e => e.TinhTrangHocTap).HasMaxLength(100);
+
+            // Thêm 2 cột mới
+            entity.Property(e => e.CoVanHocTap).HasMaxLength(50);
+            entity.Property(e => e.XepLoai).HasMaxLength(20);
         });
 
         modelBuilder.Entity<Taikhoan>(entity =>

@@ -1,8 +1,168 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\phong\\Downloads\\sourcescode20 (1)\\WebApplication2\\wwwroot\\Text",
-      "PackagePath": "staticwebassets"
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
+      "PackagePath": "staticwebassets\\admin.html"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\42 năm nhà giáo.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Bứt phá.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Bứt phá.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQA.png",
+      "PackagePath": "staticwebassets\\assets\\images\\FQA.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQAs.png",
+      "PackagePath": "staticwebassets\\assets\\images\\FQAs.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Screenshot 2025-03-12 224036.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\TB về Logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\TB về Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Xuân ất tị.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Xuân ất tị.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo copy.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\tuyển sinh.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tuyển sinh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
+      "PackagePath": "staticwebassets\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\calender.js",
+      "PackagePath": "staticwebassets\\assets\\js\\calender.js"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js",
+      "PackagePath": "staticwebassets\\assets\\js\\learn.js"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
+      "PackagePath": "staticwebassets\\assets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\logout.js"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
+      "PackagePath": "staticwebassets\\assets\\js\\welcome.js"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
+      "PackagePath": "staticwebassets\\assets\\style\\cssdangnhap\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style\\cssdangnhap\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
+      "PackagePath": "staticwebassets\\assets\\style\\info.css"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style-index.css",
+      "PackagePath": "staticwebassets\\assets\\style\\style-index.css"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\test.html",
+      "PackagePath": "staticwebassets\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html",
+      "PackagePath": "staticwebassets\\tress.html"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\1.png",
+      "PackagePath": "staticwebassets\\uploads\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\2 (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\2 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\default-avatar.png",
+      "PackagePath": "staticwebassets\\uploads\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
+      "PackagePath": "staticwebassets\\welcome.html"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

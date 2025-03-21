@@ -34,8 +34,10 @@ public class LoginController : Controller
 
         // Tạo JWT Token
         var token = GenerateJwtToken(user);
-
+        Console.WriteLine($"Đăng nhập với email: {request.Email}");
+        Console.WriteLine($"Mật khẩu nhập vào: {request.Password}");
         return Ok(new { Token = token });
+
     }
 
     private string GenerateJwtToken(Taikhoan user)
@@ -88,9 +90,11 @@ public class LoginController : Controller
         {
             return BadRequest(new { Message = "Mật khẩu không trùng khớp" });
         }
-        
+
         //Hash password and save database
-        user.MatKhau = BCrypt.Net.BCrypt.HashPassword(request.NewPassword);
+        //if (user == null || request.Password != user.MatKhau)
+
+            user.MatKhau = BCrypt.Net.BCrypt.HashPassword(request.NewPassword);
         await _context.SaveChangesAsync();
 
         return Ok(new { Message = "Đổi mật khẩu thành công" });

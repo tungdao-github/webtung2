@@ -42,7 +42,9 @@ namespace WebApplication2.Controllers
                         d.HocPhi,
                         d.TrungBinhTrungTichLuy,
                         d.SoLuongDiemF,
-                        d.TinhTrangHocTap
+                        d.TinhTrangHocTap,
+                        d.XepLoai,
+                        d.CoVanHocTap
                     })
                     .ToListAsync();
                 return Ok(sinhvien);

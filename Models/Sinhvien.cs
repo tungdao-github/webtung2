@@ -3,33 +3,73 @@ using System.Collections.Generic;
 
 namespace WebApplication2.Models;
 
-public partial class Sinhvien
+public class Sinhvien
 {
-    public string MaSinhVien { get; set; } = null!;
+   
+        public string MaSinhVien { get; set; }
+        public string TenSinhVien { get; set; }
+        public string GioiTinh { get; set; }
+        public DateTime? NgaySinh { get; set; }
+        public string SoDienThoai { get; set; }
+        public string Cccd { get; set; }
+        public string DanToc { get; set; }
+        public string Lop { get; set; }
+        public ulong? BaoHiem { get; set; }
+        public decimal? HocPhi { get; set; }
+        public float? TrungBinhTrungTichLuy { get; set; }
+        public int? SoLuongDiemF { get; set; }
+        public string TinhTrangHocTap { get; set; }
 
-    public string? TenSinhVien { get; set; }
+        // **THÊM 2 CỘT BỊ THIẾU**
+        public string XepLoai { get; set; }
+        public string CoVanHocTap { get; set; }
 
-    public string? GioiTinh { get; set; }
+    //public string MaSinhVien { get; set; }
+    //public string TenSinhVien { get; set; }
+    //public string GioiTinh { get; set; }
+    //public DateTime? NgaySinh { get; set; }
+    //public string SoDienThoai { get; set; }
+    //public string Cccd { get; set; }
+    //public string DanToc { get; set; }
+    //public string Lop { get; set; }
+    //public ulong? BaoHiem { get; set; }
+    //public decimal? HocPhi { get; set; }
+    //public double? TrungBinhTrungTichLuy { get; set; }
+    //public int? SoLuongDiemF { get; set; }
+    //public string TinhTrangHocTap { get; set; }
 
-    public DateTime? NgaySinh { get; set; }
+    //// Thêm 2 trường mới
+    //public string CoVanHocTap { get; set; }
+    //public string XepLoai { get; set; }
 
-    public string? SoDienThoai { get; set; }
+    //public string MaSinhVien { get; set; } = null!;
 
-    public string? Cccd { get; set; }
+    //public string? TenSinhVien { get; set; }
 
-    public string? DanToc { get; set; }
+    //public string? GioiTinh { get; set; }
 
-    public string? Lop { get; set; }
+    //public DateTime? NgaySinh { get; set; }
 
-    public ulong? BaoHiem { get; set; }
+    //public string? SoDienThoai { get; set; }
 
-    public decimal? HocPhi { get; set; }
+    //public string? Cccd { get; set; }
 
-    public float? TrungBinhTrungTichLuy { get; set; }
+    //public string? DanToc { get; set; }
 
-    public int? SoLuongDiemF { get; set; }
+    //public string? Lop { get; set; }
 
-    public string? TinhTrangHocTap { get; set; }
+    //public ulong? BaoHiem { get; set; }
 
+    //public decimal? HocPhi { get; set; }
+
+    //public float? TrungBinhTrungTichLuy { get; set; }
+
+    //public int? SoLuongDiemF { get; set; }
+
+    //public string? TinhTrangHocTap { get; set; }
+    //public string XepLoai { get; set; } // Thêm Xếp Loại
+
+    //public string CoVan { get; set; }  // Thêm Cố Vấn
     public virtual ICollection<Taikhoan> Taikhoans { get; set; } = new List<Taikhoan>();
 }
+

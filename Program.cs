@@ -79,6 +79,22 @@ var connectionstring = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddControllers();
 
 var app = builder.Build();
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<SinhVienDbContext>();
+
+    var users = context.Taikhoans.ToList();
+    foreach (var user in users)
+    {
+        user.MatKhau = "123123";
+
+        if (!user.MatKhau.StartsWith("$2a$"))  // Kiểm tra nếu chưa hash
+        {
+            user.MatKhau = BCrypt.Net.BCrypt.HashPassword(user.MatKhau);
+        }
+    }
+    context.SaveChanges();
+}
 
 if (app.Environment.IsDevelopment())
 {
@@ -90,6 +106,7 @@ app.UseCors("AllowAll");
 
 app.UseDefaultFiles();
 app.UseStaticFiles();
+
 
 app.UseHttpsRedirection();
 
