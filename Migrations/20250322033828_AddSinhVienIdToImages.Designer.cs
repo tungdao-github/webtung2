@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApplication2.Contexts;
 
@@ -11,9 +12,11 @@ using WebApplication2.Contexts;
 namespace WebApplication2.Migrations
 {
     [DbContext(typeof(SinhVienDbContext))]
-    partial class SinhVienDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250322033828_AddSinhVienIdToImages")]
+    partial class AddSinhVienIdToImages
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

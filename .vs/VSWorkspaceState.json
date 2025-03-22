@@ -8,7 +8,9 @@
     "\\wwwroot",
     "\\wwwroot\\assets",
     "\\wwwroot\\assets\\js",
+    "\\wwwroot\\assets\\style",
     "\\wwwroot\\uploads"
   ],
+  "SelectedNode": "\\wwwroot\\assets\\js\\welcome.js",
   "PreviewInSolutionExplorer": false
 }

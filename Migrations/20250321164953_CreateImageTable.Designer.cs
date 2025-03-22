@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApplication2.Contexts;
 
@@ -11,9 +12,11 @@ using WebApplication2.Contexts;
 namespace WebApplication2.Migrations
 {
     [DbContext(typeof(SinhVienDbContext))]
-    partial class SinhVienDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250321164953_CreateImageTable")]
+    partial class CreateImageTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -35,21 +38,13 @@ namespace WebApplication2.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("varchar(255)");
+                        .HasColumnType("longtext");
 
                     b.Property<string>("ImageUrl")
                         .IsRequired()
-                        .HasMaxLength(500)
-                        .HasColumnType("varchar(500)");
-
-                    b.Property<string>("SinhVienId")
-                        .IsRequired()
-                        .HasColumnType("varchar(10)");
+                        .HasColumnType("longtext");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("SinhVienId");
 
                     b.ToTable("image", (string)null);
                 });
@@ -178,17 +173,6 @@ namespace WebApplication2.Migrations
                     b.ToTable("vaitro", (string)null);
                 });
 
-            modelBuilder.Entity("WebApplication2.Models.ImageModel", b =>
-                {
-                    b.HasOne("WebApplication2.Models.Sinhvien", "SinhVien")
-                        .WithMany("Images")
-                        .HasForeignKey("SinhVienId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("SinhVien");
-                });
-
             modelBuilder.Entity("WebApplication2.Models.Taikhoan", b =>
                 {
                     b.HasOne("WebApplication2.Models.Sinhvien", "MaSinhVienNavigation")
@@ -208,8 +192,6 @@ namespace WebApplication2.Migrations
 
             modelBuilder.Entity("WebApplication2.Models.Sinhvien", b =>
                 {
-                    b.Navigation("Images");
-
                     b.Navigation("Taikhoans");
                 });
 

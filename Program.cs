@@ -103,7 +103,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors("AllowAll");
-
+app.UseCors(policy =>
+    policy.AllowAnyOrigin()
+          .AllowAnyMethod()
+          .AllowAnyHeader());
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
