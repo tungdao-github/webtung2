@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
             password: password
         };
 
-        fetch('http://localhost:5276/api/Login', {
+        fetch('https://localhost:44380/api/Login', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -150,7 +150,7 @@ document.getElementById('form-1').addEventListener('submit', async function (e) 
     formData.append('email', email);
 
     try {
-        const response = await fetch('http://localhost:5276/api/SendMail/send-password', {
+        const response = await fetch('https://localhost:44380/api/SendMail/send-password', {
             method: 'POST',
             body: JSON.stringify({ email: email }),
             headers: { 'Content-Type': 'application/json' }
@@ -170,7 +170,7 @@ document.getElementById('form-1').addEventListener('submit', async function (e) 
 
 
 
-fetch('http://localhost:5276/api/Login', {
+fetch('https://localhost:44380/api/Login', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(loginData)

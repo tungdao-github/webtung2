@@ -254,20 +254,23 @@
 
 
 document.addEventListener("DOMContentLoaded", async function () {
+    console.log("tungdao");
     const token = localStorage.getItem("token");
     let sinhVienId = localStorage.getItem("maSinhVien");
-
+    console.log(token);
+    console.log(sinhVienId);
     console.log("Toàn bộ localStorage:", localStorage);
-
+    
     if (!token || !sinhVienId) {
-        alert("Bạn chưa đăng nhập!");
+       alert("Bạn chưa đăng nhập!");
+        //alert("Bạn chưa đăng nhập!", localStorage);
         window.location.href = "/index.html";
         return;
     }
 
     try {
         // 📌 Gọi API lấy thông tin sinh viên
-        const response = await fetch('http://localhost:5276/api/SinhVien', {
+        const response = await fetch('https://localhost:44380/api/SinhVien', {
             method: 'GET',
             headers: { 'Authorization': `Bearer ${token}` }
         });
@@ -342,7 +345,7 @@ async function loadStudentImage(sinhVienId, token) {
     try {
         console.log("Đang lấy ảnh cho sinh viên:", sinhVienId);
 
-        let response = await fetch(`http://localhost:5276/api/images/bysinhvien/${sinhVienId}`, {
+        let response = await fetch(`https://localhost:44380/api/images/bysinhvien/${sinhVienId}`, {
             method: "GET",
             headers: { "Authorization": `Bearer ${token}` }
         });
@@ -365,18 +368,9 @@ async function loadStudentImage(sinhVienId, token) {
 
         // Nếu có lỗi, hiển thị ảnh mặc định
         let avatarImg = document.getElementById("avatarImage");
-        avatarImg.src = "/images/default-avatar.jpg"; // Đặt đường dẫn ảnh mặc định
+        avatarImg.src = "/images/logo.png"; // Đặt đường dẫn ảnh mặc định
         avatarImg.style.display = "block";
     }
 }
 
-// 🔧 Hàm chuyển đổi link Google Drive (nếu dùng ảnh từ Drive)
-function fixGoogleDriveUrl(url) {
-    if (url.includes("drive.google.com")) {
-        let fileId = url.match(/[-\w]{25,}/);
-        if (fileId) {
-            return `https://drive.google.com/uc?export=view&id=${fileId[0]}`;
-        }
-    }
-    return url;
-}
+

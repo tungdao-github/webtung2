@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J3K15qJBJD7XNjX3bmsd+EOxAOk7mxgL2IfSyLNnC6k=",
+  "Hash": "zuqmh1T7seWJmqzQ8CBUUI5KnfKxJbFYsl7NZzH++Dk=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication2\\wwwroot",
       "Source": "WebApplication2",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/style-index#[.{fingerprint=lbgovopqpl}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style-index.css",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style-index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "yqn3hj3nf3",
       "Integrity": "Bpjv8qcj1m2N9OgglVa5W0ssQZfpFJqs1K84YKHTImw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style-index.css"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style-index.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "index#[.{fingerprint=qe4qxqdqdm}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "y9yb2w2nos",
       "Integrity": "utvhDzLDb93FKQYmLcH60gLiDxdZDex5R2VkiplP1yc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/cssdangnhap/login#[.{fingerprint=oj6kczr5qf}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "60lmhnzchb",
       "Integrity": "1rAfowvIhAYP6oKL/ygHWwZ/0bNIzXhQCD+8JC4Nwt4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\login.css"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\login.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/style#[.{fingerprint=2hjl2mnaa7}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style.css",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "m9aycn3aqf",
       "Integrity": "emASxZmN3H1F/8z4GZ8p2acgfvGnn40UPWezpMj/mXE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style.css"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "tress#[.{fingerprint=5ipweew5fc}]?.html.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\tress.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "5ipweew5fc",
       "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\tress.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/learn#[.{fingerprint=6wqu2ci2nb}]?.js.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\learn.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "4shcb76mzg",
       "Integrity": "BCxEGh6injNV/e8YmJ1xTQ3d8MIwIHLl/OVzLKtnOB4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\learn.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/animation#[.{fingerprint=ja8e0xzaea}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\animation.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "58bm56ef61",
       "Integrity": "VX/C9kd/lRQYe75qavDxOfqVLSOnWLAzZki6xCMPLBE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\animation.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "welcome#[.{fingerprint=qun414qbzx}]?.html.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\welcome.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rtpmftn6pe",
-      "Integrity": "weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg=",
+      "Fingerprint": "kd26lp3jfk",
+      "Integrity": "eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\welcome.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/cssdangnhap/style#[.{fingerprint=j6dahsz1eb}]?.css.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "01a01v3reb",
       "Integrity": "xJ87/X2h+Etx4R98cOmmpwkIOx5thL4A1/lggRx2Swg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\style.css"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\style.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "admin#[.{fingerprint=cmgodbdviz}]?.html.gz",
       "AssetKind": "All",
@@ -217,41 +217,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\admin.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "afwlg7jzjn",
       "Integrity": "muxLxuKbZEuGtkRa+48NwbbNDg4MUkpv8XGSZ4refoI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\admin.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-hkq16in6h7.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
-      "RelativePath": "assets/js/login#[.{fingerprint=5w6kn2fhvv}]?.js.gz",
+      "RelativePath": "assets/js/login#[.{fingerprint=hkq16in6h7}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\login.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e19zfhe6vd",
-      "Integrity": "fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=",
+      "Fingerprint": "kd4d84mm2t",
+      "Integrity": "mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\login.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/logout#[.{fingerprint=60e98wm3wp}]?.js.gz",
       "AssetKind": "All",
@@ -259,41 +259,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\logout.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ctazqww8e1",
       "Integrity": "gPtdWQFLMfZAZ2BpXJJMFKVx6yRc1XZzKQy4fC+gepg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\logout.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-ol1ahvp2wt.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-zvsgay7gnm.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
-      "RelativePath": "assets/js/welcome#[.{fingerprint=ol1ahvp2wt}]?.js.gz",
+      "RelativePath": "assets/js/welcome#[.{fingerprint=zvsgay7gnm}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\welcome.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xyn6a4jb9l",
-      "Integrity": "J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo=",
+      "Fingerprint": "xznvke66na",
+      "Integrity": "PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\welcome.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/calender#[.{fingerprint=8z0ayvm2oe}]?.js.gz",
       "AssetKind": "All",
@@ -301,20 +301,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\calender.js",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\calender.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "lwk0fop813",
       "Integrity": "1cjXKOMe98dIc+v+N79w+zeBwlB8LGuqZuCvtIqX+ug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\calender.js"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\calender.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/info#[.{fingerprint=bn3yai6sya}]?.css.gz",
       "AssetKind": "All",
@@ -322,20 +322,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\info.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1zmcc0zr8o",
       "Integrity": "s4T7v09o3qmGSLFOdaSv+D6BsuXDglXV9n7N2ov1LGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\info.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "login#[.{fingerprint=bl27lxjidt}]?.html.gz",
       "AssetKind": "All",
@@ -343,20 +343,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\login.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "wcawcrug4v",
       "Integrity": "cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "test#[.{fingerprint=efp4qoys43}]?.html.gz",
       "AssetKind": "All",
@@ -364,20 +364,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\test.html",
+      "RelatedAsset": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\test.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "408puav5bp",
       "Integrity": "PJXpFvziyAvpJOszFYC339fCWO9PTzsDul3cw0ykNUo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\test.html"
+      "OriginalItemSpec": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\test.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\admin.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "admin#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\admin.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/—Pngtree—user flat character avatar png_4651285#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/42 năm nhà giáo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\42 năm nhà giáo.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/461615185_990949613047573_4220256135553624880_n#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/461675640_991077263034808_4898511723060541398_n#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/461784176_991152473027287_8498712921632630409_n#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\background.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\background.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\background.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Bứt phá.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Bứt phá.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/Bứt phá#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\Bứt phá.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQA.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\FQA.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/FQA#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\FQA.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQAs.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\FQAs.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/FQAs#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\FQAs.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo copy.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\logo copy.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/logo copy#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo copy.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/Screenshot 2025-03-12 224036#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\TB về Logo.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\TB về Logo.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/TB về Logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\TB về Logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\tuyển sinh.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\tuyển sinh.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/tuyển sinh#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\tuyển sinh.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Xuân ất tị.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Xuân ất tị.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/images/Xuân ất tị#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\Xuân ất tị.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\animation.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/animation#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\animation.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\calender.js",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\calender.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/calender#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\calender.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\learn.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/learn#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\learn.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\login.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/login#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -787,17 +787,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5w6kn2fhvv",
-      "Integrity": "5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=",
+      "Fingerprint": "hkq16in6h7",
+      "Integrity": "wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\login.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\logout.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/logout#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\logout.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\welcome.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/js/welcome#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -829,17 +829,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ol1ahvp2wt",
-      "Integrity": "nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U=",
+      "Fingerprint": "zvsgay7gnm",
+      "Integrity": "wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\welcome.js"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/cssdangnhap/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style\\cssdangnhap\\login.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/cssdangnhap/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style\\cssdangnhap\\style.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\info.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/info#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style\\info.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style-index.css",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style-index.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/style-index#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style\\style-index.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style.css",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "assets/style/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style\\style.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\index.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\login.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "login#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\test.html",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\test.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "test#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\test.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\tress.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "tress#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\tress.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/07a31a35-661f-4223-a111-6ee31ab7179b#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\1.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\1.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\1.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\2 (2).jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\2 (2).jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/2 (2)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2 (2).jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/33ab6fe4-71ea-4c34-8728-b128296c2d7d#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/4fd5ecab-e199-4d47-be79-6f8c347bb2bc#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/54965733-047e-40f1-a601-344e98b36fe2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/93048498_995364390865474_4898286755137978368_n#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/a473799a-5870-4046-87c3-f7e7445a1e4d#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\default-avatar.png",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\default-avatar.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "uploads/default-avatar#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\default-avatar.png"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
+      "Identity": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\welcome.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "welcome#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1238,7 +1238,7 @@
   "Endpoints": [
     {
       "Route": "admin.cmgodbdviz.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1261,7 +1261,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1301,7 +1301,7 @@
     },
     {
       "Route": "admin.cmgodbdviz.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\admin.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1322,7 +1322,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1346,7 +1346,7 @@
     },
     {
       "Route": "admin.cmgodbdviz.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1367,7 +1367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1399,7 +1399,7 @@
     },
     {
       "Route": "admin.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1422,7 +1422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1454,7 +1454,7 @@
     },
     {
       "Route": "admin.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\admin.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1475,7 +1475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1491,7 +1491,7 @@
     },
     {
       "Route": "admin.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\o6seuo3zji-cmgodbdviz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1536,7 +1536,7 @@
     },
     {
       "Route": "assets/images/—Pngtree—user flat character avatar png_4651285.e08lmt9agi.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1557,7 +1557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1581,7 +1581,7 @@
     },
     {
       "Route": "assets/images/—Pngtree—user flat character avatar png_4651285.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1602,7 +1602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1618,7 +1618,7 @@
     },
     {
       "Route": "assets/images/42 năm nhà giáo.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1639,7 +1639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1655,7 +1655,7 @@
     },
     {
       "Route": "assets/images/42 năm nhà giáo.rcq4nvjupu.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\42 năm nhà giáo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1676,7 +1676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1700,7 +1700,7 @@
     },
     {
       "Route": "assets/images/461615185_990949613047573_4220256135553624880_n.4872hb7lqp.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1721,7 +1721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1745,7 +1745,7 @@
     },
     {
       "Route": "assets/images/461615185_990949613047573_4220256135553624880_n.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461615185_990949613047573_4220256135553624880_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1766,7 +1766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1782,7 +1782,7 @@
     },
     {
       "Route": "assets/images/461675640_991077263034808_4898511723060541398_n.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1803,7 +1803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1819,7 +1819,7 @@
     },
     {
       "Route": "assets/images/461675640_991077263034808_4898511723060541398_n.snufku8476.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461675640_991077263034808_4898511723060541398_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1840,7 +1840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1864,7 +1864,7 @@
     },
     {
       "Route": "assets/images/461784176_991152473027287_8498712921632630409_n.glm8a8yodq.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1885,7 +1885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1909,7 +1909,7 @@
     },
     {
       "Route": "assets/images/461784176_991152473027287_8498712921632630409_n.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\461784176_991152473027287_8498712921632630409_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1930,7 +1930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1946,7 +1946,7 @@
     },
     {
       "Route": "assets/images/background.hf6bkm5h0k.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\background.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1967,7 +1967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1991,7 +1991,7 @@
     },
     {
       "Route": "assets/images/background.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\background.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2012,7 +2012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2028,7 +2028,7 @@
     },
     {
       "Route": "assets/images/Bứt phá.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Bứt phá.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Bứt phá.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2049,7 +2049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2065,7 +2065,7 @@
     },
     {
       "Route": "assets/images/Bứt phá.txzm8awvqa.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Bứt phá.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Bứt phá.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2086,7 +2086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2110,7 +2110,7 @@
     },
     {
       "Route": "assets/images/FQA.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQA.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\FQA.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2131,7 +2131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2147,7 +2147,7 @@
     },
     {
       "Route": "assets/images/FQA.wc2gf58e5p.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQA.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\FQA.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2168,7 +2168,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2192,7 +2192,7 @@
     },
     {
       "Route": "assets/images/FQAs.5zhhugz7fc.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQAs.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\FQAs.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2213,7 +2213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2237,7 +2237,7 @@
     },
     {
       "Route": "assets/images/FQAs.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\FQAs.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\FQAs.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2258,7 +2258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2274,7 +2274,7 @@
     },
     {
       "Route": "assets/images/logo copy.1zmh8fidb2.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo copy.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\logo copy.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2295,7 +2295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2319,7 +2319,7 @@
     },
     {
       "Route": "assets/images/logo copy.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo copy.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\logo copy.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2340,7 +2340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2356,7 +2356,7 @@
     },
     {
       "Route": "assets/images/logo.1zmh8fidb2.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2377,7 +2377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2401,7 +2401,7 @@
     },
     {
       "Route": "assets/images/logo.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2422,7 +2422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2438,7 +2438,7 @@
     },
     {
       "Route": "assets/images/Screenshot 2025-03-12 224036.ersoxkvmd6.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2459,7 +2459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2483,7 +2483,7 @@
     },
     {
       "Route": "assets/images/Screenshot 2025-03-12 224036.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Screenshot 2025-03-12 224036.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2504,7 +2504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2520,7 +2520,7 @@
     },
     {
       "Route": "assets/images/TB về Logo.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\TB về Logo.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\TB về Logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2541,7 +2541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2557,7 +2557,7 @@
     },
     {
       "Route": "assets/images/TB về Logo.jsl0exfaj5.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\TB về Logo.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\TB về Logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2578,7 +2578,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2602,7 +2602,7 @@
     },
     {
       "Route": "assets/images/tuyển sinh.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\tuyển sinh.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\tuyển sinh.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2639,7 +2639,7 @@
     },
     {
       "Route": "assets/images/tuyển sinh.reliu7reec.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\tuyển sinh.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\tuyển sinh.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2660,7 +2660,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2684,7 +2684,7 @@
     },
     {
       "Route": "assets/images/Xuân ất tị.hs8r061ezh.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Xuân ất tị.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Xuân ất tị.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2705,7 +2705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2729,7 +2729,7 @@
     },
     {
       "Route": "assets/images/Xuân ất tị.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\images\\Xuân ất tị.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\images\\Xuân ất tị.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2750,7 +2750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2766,7 +2766,7 @@
     },
     {
       "Route": "assets/js/animation.ja8e0xzaea.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2789,7 +2789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2829,7 +2829,7 @@
     },
     {
       "Route": "assets/js/animation.ja8e0xzaea.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\animation.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2850,7 +2850,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2874,7 +2874,7 @@
     },
     {
       "Route": "assets/js/animation.ja8e0xzaea.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2895,7 +2895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2927,7 +2927,7 @@
     },
     {
       "Route": "assets/js/animation.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2950,7 +2950,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2982,7 +2982,7 @@
     },
     {
       "Route": "assets/js/animation.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\animation.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3003,7 +3003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3019,7 +3019,7 @@
     },
     {
       "Route": "assets/js/animation.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3040,7 +3040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3064,7 +3064,7 @@
     },
     {
       "Route": "assets/js/calender.8z0ayvm2oe.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3087,7 +3087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3127,7 +3127,7 @@
     },
     {
       "Route": "assets/js/calender.8z0ayvm2oe.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\calender.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\calender.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3148,7 +3148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3172,7 +3172,7 @@
     },
     {
       "Route": "assets/js/calender.8z0ayvm2oe.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3193,7 +3193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3225,7 +3225,7 @@
     },
     {
       "Route": "assets/js/calender.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3248,7 +3248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3280,7 +3280,7 @@
     },
     {
       "Route": "assets/js/calender.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\calender.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\calender.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3301,7 +3301,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3317,7 +3317,7 @@
     },
     {
       "Route": "assets/js/calender.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\sohxbtxu5s-8z0ayvm2oe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3338,7 +3338,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3362,7 +3362,7 @@
     },
     {
       "Route": "assets/js/learn.6wqu2ci2nb.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3385,7 +3385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3425,7 +3425,7 @@
     },
     {
       "Route": "assets/js/learn.6wqu2ci2nb.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\learn.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3446,7 +3446,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3470,7 +3470,7 @@
     },
     {
       "Route": "assets/js/learn.6wqu2ci2nb.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3491,7 +3491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3523,7 +3523,7 @@
     },
     {
       "Route": "assets/js/learn.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3546,7 +3546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3578,7 +3578,7 @@
     },
     {
       "Route": "assets/js/learn.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\learn.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3599,7 +3599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3615,7 +3615,7 @@
     },
     {
       "Route": "assets/js/learn.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\6o4ojoy3xt-6wqu2ci2nb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3636,7 +3636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3659,13 +3659,13 @@
       ]
     },
     {
-      "Route": "assets/js/login.5w6kn2fhvv.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "Route": "assets/js/login.hkq16in6h7.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-hkq16in6h7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000533902830"
+          "Quality": "0.000533333333"
         }
       ],
       "ResponseHeaders": [
@@ -3675,15 +3675,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1874"
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 07:11:17 GMT"
+          "Value": "Sat, 22 Mar 2025 13:39:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3703,13 +3703,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "W/\"wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6kn2fhvv"
+          "Value": "hkq16in6h7"
         },
         {
           "Name": "label",
@@ -3717,13 +3717,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY="
         }
       ]
     },
     {
-      "Route": "assets/js/login.5w6kn2fhvv.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
+      "Route": "assets/js/login.hkq16in6h7.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3732,7 +3732,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6553"
+          "Value": "6559"
         },
         {
           "Name": "Content-Type",
@@ -3740,11 +3740,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "\"wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 07:11:17 GMT"
+          "Value": "Sat, 22 Mar 2025 13:39:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3754,7 +3754,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6kn2fhvv"
+          "Value": "hkq16in6h7"
         },
         {
           "Name": "label",
@@ -3762,13 +3762,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY="
         }
       ]
     },
     {
-      "Route": "assets/js/login.5w6kn2fhvv.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "Route": "assets/js/login.hkq16in6h7.js.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-hkq16in6h7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3777,7 +3777,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1874"
         },
         {
           "Name": "Content-Type",
@@ -3785,11 +3785,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 07:11:17 GMT"
+          "Value": "Sat, 22 Mar 2025 13:39:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3807,7 +3807,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6kn2fhvv"
+          "Value": "hkq16in6h7"
         },
         {
           "Name": "label",
@@ -3815,18 +3815,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8="
+          "Value": "sha256-mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE="
         }
       ]
     },
     {
       "Route": "assets/js/login.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-hkq16in6h7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000533902830"
+          "Quality": "0.000533333333"
         }
       ],
       "ResponseHeaders": [
@@ -3836,15 +3836,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1874"
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 07:11:17 GMT"
+          "Value": "Sat, 22 Mar 2025 13:39:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3864,19 +3864,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "W/\"wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY="
         }
       ]
     },
     {
       "Route": "assets/js/login.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3885,7 +3885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6553"
+          "Value": "6559"
         },
         {
           "Name": "Content-Type",
@@ -3893,11 +3893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "\"wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 07:11:17 GMT"
+          "Value": "Sat, 22 Mar 2025 13:39:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3907,13 +3907,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-wXr3u692rwRuidE5zJnLj8NyQPDuEH8svW6/31OVUAY="
         }
       ]
     },
     {
       "Route": "assets/js/login.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-hkq16in6h7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3922,7 +3922,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1874"
         },
         {
           "Name": "Content-Type",
@@ -3930,11 +3930,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 07:11:17 GMT"
+          "Value": "Sat, 22 Mar 2025 13:39:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3952,13 +3952,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8="
+          "Value": "sha256-mDB0aE1Bf0aMvpTwdwbhWPcnR038rAgnfSi+6CNz+PE="
         }
       ]
     },
     {
       "Route": "assets/js/logout.60e98wm3wp.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3981,7 +3981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4021,7 +4021,7 @@
     },
     {
       "Route": "assets/js/logout.60e98wm3wp.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\logout.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4042,7 +4042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4066,7 +4066,7 @@
     },
     {
       "Route": "assets/js/logout.60e98wm3wp.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4087,7 +4087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4119,7 +4119,7 @@
     },
     {
       "Route": "assets/js/logout.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4142,7 +4142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4174,7 +4174,7 @@
     },
     {
       "Route": "assets/js/logout.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\logout.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4195,7 +4195,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4211,7 +4211,7 @@
     },
     {
       "Route": "assets/js/logout.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\p8inng1eu7-60e98wm3wp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4232,7 +4232,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4256,12 +4256,12 @@
     },
     {
       "Route": "assets/js/welcome.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-ol1ahvp2wt.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-zvsgay7gnm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000344471237"
+          "Quality": "0.000362056481"
         }
       ],
       "ResponseHeaders": [
@@ -4271,15 +4271,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2902"
+          "Value": "2761"
         },
         {
           "Name": "ETag",
-          "Value": "\"J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo=\""
+          "Value": "\"PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:09:24 GMT"
+          "Value": "Sun, 23 Mar 2025 03:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4299,19 +4299,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U=\""
+          "Value": "W/\"wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U="
+          "Value": "sha256-wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw="
         }
       ]
     },
     {
       "Route": "assets/js/welcome.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\welcome.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4320,7 +4320,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17047"
+          "Value": "17229"
         },
         {
           "Name": "Content-Type",
@@ -4328,11 +4328,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U=\""
+          "Value": "\"wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:09:24 GMT"
+          "Value": "Sun, 23 Mar 2025 03:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4342,13 +4342,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U="
+          "Value": "sha256-wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw="
         }
       ]
     },
     {
       "Route": "assets/js/welcome.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-ol1ahvp2wt.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-zvsgay7gnm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4357,7 +4357,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2902"
+          "Value": "2761"
         },
         {
           "Name": "Content-Type",
@@ -4365,11 +4365,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo=\""
+          "Value": "\"PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:09:24 GMT"
+          "Value": "Sun, 23 Mar 2025 03:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4387,18 +4387,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo="
+          "Value": "sha256-PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0="
         }
       ]
     },
     {
-      "Route": "assets/js/welcome.ol1ahvp2wt.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-ol1ahvp2wt.gz",
+      "Route": "assets/js/welcome.zvsgay7gnm.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-zvsgay7gnm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000344471237"
+          "Quality": "0.000362056481"
         }
       ],
       "ResponseHeaders": [
@@ -4408,15 +4408,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2902"
+          "Value": "2761"
         },
         {
           "Name": "ETag",
-          "Value": "\"J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo=\""
+          "Value": "\"PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:09:24 GMT"
+          "Value": "Sun, 23 Mar 2025 03:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4436,13 +4436,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U=\""
+          "Value": "W/\"wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ol1ahvp2wt"
+          "Value": "zvsgay7gnm"
         },
         {
           "Name": "label",
@@ -4450,13 +4450,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U="
+          "Value": "sha256-wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw="
         }
       ]
     },
     {
-      "Route": "assets/js/welcome.ol1ahvp2wt.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
+      "Route": "assets/js/welcome.zvsgay7gnm.js",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\js\\welcome.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4465,7 +4465,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17047"
+          "Value": "17229"
         },
         {
           "Name": "Content-Type",
@@ -4473,11 +4473,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U=\""
+          "Value": "\"wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:09:24 GMT"
+          "Value": "Sun, 23 Mar 2025 03:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4487,7 +4487,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ol1ahvp2wt"
+          "Value": "zvsgay7gnm"
         },
         {
           "Name": "label",
@@ -4495,13 +4495,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nMNtA8zm+XUeLTEWD/MhUQEQ0f7X7g+pxzDSVEYab2U="
+          "Value": "sha256-wYft4+T1xpKySRcev9YqlmvweE5wz87CpE8PHzGhVJw="
         }
       ]
     },
     {
-      "Route": "assets/js/welcome.ol1ahvp2wt.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-ol1ahvp2wt.gz",
+      "Route": "assets/js/welcome.zvsgay7gnm.js.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\s90axyl5xe-zvsgay7gnm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4510,7 +4510,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2902"
+          "Value": "2761"
         },
         {
           "Name": "Content-Type",
@@ -4518,11 +4518,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo=\""
+          "Value": "\"PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:09:24 GMT"
+          "Value": "Sun, 23 Mar 2025 03:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4540,7 +4540,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ol1ahvp2wt"
+          "Value": "zvsgay7gnm"
         },
         {
           "Name": "label",
@@ -4548,13 +4548,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J3cI68yZ8Yfx9BLBEL0FHt5BSM98PP1fAsxSL7rMqFo="
+          "Value": "sha256-PfdKr1gaD/4+cAQxRw10uB9KKLWZoqDvX9X1FmEv2O0="
         }
       ]
     },
     {
       "Route": "assets/style/cssdangnhap/login.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4577,7 +4577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4609,7 +4609,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/login.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4630,7 +4630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4646,7 +4646,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/login.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4667,7 +4667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4691,7 +4691,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/login.oj6kczr5qf.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4714,7 +4714,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4754,7 +4754,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/login.oj6kczr5qf.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4775,7 +4775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4799,7 +4799,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/login.oj6kczr5qf.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\36xhwmshhj-oj6kczr5qf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4820,7 +4820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4852,7 +4852,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/style.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4875,7 +4875,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4907,7 +4907,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/style.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4928,7 +4928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4944,7 +4944,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/style.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4965,7 +4965,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4989,7 +4989,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/style.j6dahsz1eb.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5012,7 +5012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5052,7 +5052,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/style.j6dahsz1eb.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\cssdangnhap\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5073,7 +5073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5097,7 +5097,7 @@
     },
     {
       "Route": "assets/style/cssdangnhap/style.j6dahsz1eb.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\n9xmtfa9k5-j6dahsz1eb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5118,7 +5118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5150,7 +5150,7 @@
     },
     {
       "Route": "assets/style/info.bn3yai6sya.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5173,7 +5173,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5213,7 +5213,7 @@
     },
     {
       "Route": "assets/style/info.bn3yai6sya.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\info.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5234,7 +5234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5258,7 +5258,7 @@
     },
     {
       "Route": "assets/style/info.bn3yai6sya.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5279,7 +5279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5311,7 +5311,7 @@
     },
     {
       "Route": "assets/style/info.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5334,7 +5334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5366,7 +5366,7 @@
     },
     {
       "Route": "assets/style/info.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\info.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5387,7 +5387,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5403,7 +5403,7 @@
     },
     {
       "Route": "assets/style/info.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\vd42zt2zhu-bn3yai6sya.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5424,7 +5424,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5448,7 +5448,7 @@
     },
     {
       "Route": "assets/style/style-index.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5471,7 +5471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5503,7 +5503,7 @@
     },
     {
       "Route": "assets/style/style-index.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style-index.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style-index.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5524,7 +5524,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5540,7 +5540,7 @@
     },
     {
       "Route": "assets/style/style-index.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5561,7 +5561,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5585,7 +5585,7 @@
     },
     {
       "Route": "assets/style/style-index.lbgovopqpl.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5608,7 +5608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5648,7 +5648,7 @@
     },
     {
       "Route": "assets/style/style-index.lbgovopqpl.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style-index.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style-index.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5669,7 +5669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5693,7 +5693,7 @@
     },
     {
       "Route": "assets/style/style-index.lbgovopqpl.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\0zqxnug55f-lbgovopqpl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5714,7 +5714,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5746,7 +5746,7 @@
     },
     {
       "Route": "assets/style/style.2hjl2mnaa7.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5769,7 +5769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5809,7 +5809,7 @@
     },
     {
       "Route": "assets/style/style.2hjl2mnaa7.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5830,7 +5830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5854,7 +5854,7 @@
     },
     {
       "Route": "assets/style/style.2hjl2mnaa7.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5875,7 +5875,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5907,7 +5907,7 @@
     },
     {
       "Route": "assets/style/style.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5930,7 +5930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5962,7 +5962,7 @@
     },
     {
       "Route": "assets/style/style.css",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\style.css",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\assets\\style\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5983,7 +5983,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5999,7 +5999,7 @@
     },
     {
       "Route": "assets/style/style.css.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\4urashli7c-2hjl2mnaa7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6020,7 +6020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6044,7 +6044,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6067,7 +6067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6099,7 +6099,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6120,7 +6120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6136,7 +6136,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6157,7 +6157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6181,7 +6181,7 @@
     },
     {
       "Route": "index.qe4qxqdqdm.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6204,7 +6204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6244,7 +6244,7 @@
     },
     {
       "Route": "index.qe4qxqdqdm.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6265,7 +6265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6289,7 +6289,7 @@
     },
     {
       "Route": "index.qe4qxqdqdm.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6310,7 +6310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6342,7 +6342,7 @@
     },
     {
       "Route": "login.bl27lxjidt.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6365,7 +6365,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6405,7 +6405,7 @@
     },
     {
       "Route": "login.bl27lxjidt.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6426,7 +6426,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6450,7 +6450,7 @@
     },
     {
       "Route": "login.bl27lxjidt.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6471,7 +6471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6503,7 +6503,7 @@
     },
     {
       "Route": "login.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6526,7 +6526,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6558,7 +6558,7 @@
     },
     {
       "Route": "login.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6579,7 +6579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6595,7 +6595,7 @@
     },
     {
       "Route": "login.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6616,7 +6616,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6640,7 +6640,7 @@
     },
     {
       "Route": "test.efp4qoys43.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6663,7 +6663,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6703,7 +6703,7 @@
     },
     {
       "Route": "test.efp4qoys43.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\test.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\test.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6724,7 +6724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6748,7 +6748,7 @@
     },
     {
       "Route": "test.efp4qoys43.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6769,7 +6769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6801,7 +6801,7 @@
     },
     {
       "Route": "test.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6824,7 +6824,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6856,7 +6856,7 @@
     },
     {
       "Route": "test.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\test.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\test.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6877,7 +6877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6893,7 +6893,7 @@
     },
     {
       "Route": "test.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\zozjnw4576-efp4qoys43.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6914,7 +6914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6938,7 +6938,7 @@
     },
     {
       "Route": "tress.5ipweew5fc.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6961,7 +6961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7001,7 +7001,7 @@
     },
     {
       "Route": "tress.5ipweew5fc.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\tress.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7022,7 +7022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7046,7 +7046,7 @@
     },
     {
       "Route": "tress.5ipweew5fc.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7067,7 +7067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7099,7 +7099,7 @@
     },
     {
       "Route": "tress.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7122,7 +7122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7154,7 +7154,7 @@
     },
     {
       "Route": "tress.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\tress.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7175,7 +7175,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7191,7 +7191,7 @@
     },
     {
       "Route": "tress.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\5zz43mqbou-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7212,7 +7212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 05:12:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7236,7 +7236,7 @@
     },
     {
       "Route": "uploads/07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7257,7 +7257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 13:04:59 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7273,7 +7273,7 @@
     },
     {
       "Route": "uploads/07a31a35-661f-4223-a111-6ee31ab7179b.x0dix3b5nf.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\07a31a35-661f-4223-a111-6ee31ab7179b.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7294,7 +7294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 13:04:59 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7318,7 +7318,7 @@
     },
     {
       "Route": "uploads/1.mf8q5koo65.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\1.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7339,7 +7339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:58 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7363,7 +7363,7 @@
     },
     {
       "Route": "uploads/1.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\1.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7384,7 +7384,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:58 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7400,7 +7400,7 @@
     },
     {
       "Route": "uploads/2 (2).jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\2 (2).jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\2 (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7421,7 +7421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 13:04:44 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7437,7 +7437,7 @@
     },
     {
       "Route": "uploads/2 (2).x0dix3b5nf.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\2 (2).jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\2 (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7458,7 +7458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 13:04:44 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7482,7 +7482,7 @@
     },
     {
       "Route": "uploads/33ab6fe4-71ea-4c34-8728-b128296c2d7d.4l630jwzig.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7503,7 +7503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:18:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7527,7 +7527,7 @@
     },
     {
       "Route": "uploads/33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7548,7 +7548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:18:06 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7564,7 +7564,7 @@
     },
     {
       "Route": "uploads/4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7585,7 +7585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 13:05:00 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7601,7 +7601,7 @@
     },
     {
       "Route": "uploads/4fd5ecab-e199-4d47-be79-6f8c347bb2bc.x0dix3b5nf.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\4fd5ecab-e199-4d47-be79-6f8c347bb2bc.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7622,7 +7622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 13:05:00 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7646,7 +7646,7 @@
     },
     {
       "Route": "uploads/54965733-047e-40f1-a601-344e98b36fe2.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7667,7 +7667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:16:57 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7683,7 +7683,7 @@
     },
     {
       "Route": "uploads/54965733-047e-40f1-a601-344e98b36fe2.uzrw8av1d6.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7704,7 +7704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:16:57 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7728,7 +7728,7 @@
     },
     {
       "Route": "uploads/93048498_995364390865474_4898286755137978368_n.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7749,7 +7749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:44:41 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7765,7 +7765,7 @@
     },
     {
       "Route": "uploads/93048498_995364390865474_4898286755137978368_n.nw74pa9cke.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\93048498_995364390865474_4898286755137978368_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7786,7 +7786,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:44:41 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7810,7 +7810,7 @@
     },
     {
       "Route": "uploads/a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7831,7 +7831,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:17:00 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7847,7 +7847,7 @@
     },
     {
       "Route": "uploads/a473799a-5870-4046-87c3-f7e7445a1e4d.uzrw8av1d6.jpg",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7868,7 +7868,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:17:00 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7892,7 +7892,7 @@
     },
     {
       "Route": "uploads/default-avatar.cprrxd0r4f.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\default-avatar.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\default-avatar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7913,7 +7913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:40:10 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7937,7 +7937,7 @@
     },
     {
       "Route": "uploads/default-avatar.png",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\default-avatar.png",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\uploads\\default-avatar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7958,7 +7958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:40:10 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7974,12 +7974,12 @@
     },
     {
       "Route": "welcome.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000559284116"
+          "Quality": "0.000565291125"
         }
       ],
       "ResponseHeaders": [
@@ -7989,15 +7989,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1787"
+          "Value": "1768"
         },
         {
           "Name": "ETag",
-          "Value": "\"weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg=\""
+          "Value": "\"eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:06:23 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8029,7 +8029,7 @@
     },
     {
       "Route": "welcome.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\welcome.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8050,7 +8050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:06:23 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8066,7 +8066,7 @@
     },
     {
       "Route": "welcome.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8075,7 +8075,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1787"
+          "Value": "1768"
         },
         {
           "Name": "Content-Type",
@@ -8083,11 +8083,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg=\""
+          "Value": "\"eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:06:23 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8105,18 +8105,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg="
+          "Value": "sha256-eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI="
         }
       ]
     },
     {
       "Route": "welcome.qun414qbzx.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000559284116"
+          "Quality": "0.000565291125"
         }
       ],
       "ResponseHeaders": [
@@ -8126,15 +8126,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1787"
+          "Value": "1768"
         },
         {
           "Name": "ETag",
-          "Value": "\"weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg=\""
+          "Value": "\"eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:06:23 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8174,7 +8174,7 @@
     },
     {
       "Route": "welcome.qun414qbzx.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\wwwroot\\welcome.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8195,7 +8195,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:06:23 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8219,7 +8219,7 @@
     },
     {
       "Route": "welcome.qun414qbzx.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
+      "AssetFile": "C:\\Users\\TUNG\\RiderProjects\\webtung2\\obj\\Debug\\net9.0\\compressed\\bejb82qb36-qun414qbzx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8228,7 +8228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1787"
+          "Value": "1768"
         },
         {
           "Name": "Content-Type",
@@ -8236,11 +8236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg=\""
+          "Value": "\"eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 07:06:23 GMT"
+          "Value": "Sat, 22 Mar 2025 13:04:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8266,7 +8266,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-weD5NR3g6ZnIreGBxjtrbVRfmYzo61B/fi7CC84o4kg="
+          "Value": "sha256-eIX87r1oKdfPFnFE2MmNYeyHuHica1IKKUhT7+jxAcI="
         }
       ]
     }
