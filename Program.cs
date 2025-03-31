@@ -5,8 +5,11 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
 using WebApplication2.Models;
+using OfficeOpenXml;
+using NuGet.Packaging;
 
 var builder = WebApplication.CreateBuilder(args);
+//ExcelPackage.License = new OfficeOpenXml.LicenseContext { LicenseType = LicenseType.NonCommercial };
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -77,6 +80,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 var connectionstring = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddControllers();
+//ExcelPackage.SetLicenseContext(LicenseContext.NonCommercial);
 
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())

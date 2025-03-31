@@ -3,23 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\SinhVienController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\SinhVienController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\UploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\animation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\welcome.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\WebApplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\style\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\logout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\ImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\Source\\Repos\\WebApplication4\\Models\\ImageModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\ImageModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ImageModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,23 +86,11 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Contexts\\SinhVienDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contexts\\SinhVienDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\style\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -60,18 +103,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\logout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\UploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Filters\\SwaggerFileOperationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,10 +137,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\uploads\\1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\tress.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -118,24 +145,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\SinhVienController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\SinhVienController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\js\\animation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -155,8 +166,8 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 387,
-          "SelectedChildIndex": 31,
+          "DockedWidth": 318,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -175,29 +186,69 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAEwL0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-30T07:44:40.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T07:37:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:30:53.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.js",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\admin.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\admin.js",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\admin.js",
+              "RelativeToolTip": "wwwroot\\assets\\js\\admin.js",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwF0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T07:00:40.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "info.css",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
               "RelativeDocumentMoniker": "wwwroot\\assets\\style\\info.css",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css",
               "RelativeToolTip": "wwwroot\\assets\\style\\info.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADABAAAAAAAAAAAAwEcBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-22T02:01:44.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T02:01:44.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Class.cs",
               "RelativeDocumentMoniker": "Models\\Class.cs",
@@ -209,20 +260,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "ImageModel.cs",
-              "DocumentMoniker": "C:\\Users\\TUNG\\Source\\Repos\\WebApplication4\\Models\\ImageModel.cs",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\ImageModel.cs",
               "RelativeDocumentMoniker": "Models\\ImageModel.cs",
-              "ToolTip": "C:\\Users\\TUNG\\Source\\Repos\\WebApplication4\\Models\\ImageModel.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\ImageModel.cs",
               "RelativeToolTip": "Models\\ImageModel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:04:36.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:04:36.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Vaitro.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Vaitro.cs",
               "RelativeDocumentMoniker": "Models\\Vaitro.cs",
@@ -230,12 +280,11 @@
               "RelativeToolTip": "Models\\Vaitro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:03:25.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:03:25.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "ImageController.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\ImageController.cs",
               "RelativeDocumentMoniker": "Controllers\\ImageController.cs",
@@ -243,12 +292,11 @@
               "RelativeToolTip": "Controllers\\ImageController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T15:34:38.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T15:34:38.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "UploadFileModel.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\UploadFileModel.cs",
               "RelativeDocumentMoniker": "Models\\UploadFileModel.cs",
@@ -260,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "SwaggerFileOperationFilter.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Filters\\SwaggerFileOperationFilter.cs",
               "RelativeDocumentMoniker": "Filters\\SwaggerFileOperationFilter.cs",
@@ -272,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "FileUploadOperationFilter.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Filters\\FileUploadOperationFilter.cs",
               "RelativeDocumentMoniker": "Filters\\FileUploadOperationFilter.cs",
@@ -284,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "default-avatar.png - Bitmap [1638x2048, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\default-avatar.png",
               "RelativeDocumentMoniker": "wwwroot\\uploads\\default-avatar.png",
@@ -296,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "1.png - PNG [402x435, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\1.png",
               "RelativeDocumentMoniker": "wwwroot\\uploads\\1.png",
@@ -308,19 +356,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "admin.html",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
               "RelativeDocumentMoniker": "wwwroot\\admin.html",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html",
               "RelativeToolTip": "wwwroot\\admin.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-21T07:33:04.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "tress.html",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\tress.html",
               "RelativeDocumentMoniker": "wwwroot\\tress.html",
@@ -332,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg - Bitmap [564x705, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
               "RelativeDocumentMoniker": "wwwroot\\uploads\\33ab6fe4-71ea-4c34-8728-b128296c2d7d.jpg",
@@ -344,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "54965733-047e-40f1-a601-344e98b36fe2.jpg - Bitmap [1536x2048, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
               "RelativeDocumentMoniker": "wwwroot\\uploads\\54965733-047e-40f1-a601-344e98b36fe2.jpg",
@@ -356,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "a473799a-5870-4046-87c3-f7e7445a1e4d.jpg - Bitmap [1536x2048, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
               "RelativeDocumentMoniker": "wwwroot\\uploads\\a473799a-5870-4046-87c3-f7e7445a1e4d.jpg",
@@ -368,44 +416,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "UploadController.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\UploadController.cs",
               "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\UploadController.cs",
               "RelativeToolTip": "Controllers\\UploadController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T07:14:18.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SinhVienController.cs",
-              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\SinhVienController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SinhVienController.cs",
-              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\SinhVienController.cs",
-              "RelativeToolTip": "Controllers\\SinhVienController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAtwC4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T03:54:55.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "TaiKhoanController.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\TaiKhoanController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaiKhoanController.cs",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\TaiKhoanController.cs",
               "RelativeToolTip": "Controllers\\TaiKhoanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T03:07:50.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T03:07:50.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "Taikhoan.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Taikhoan.cs",
               "RelativeDocumentMoniker": "Models\\Taikhoan.cs",
@@ -413,25 +448,23 @@
               "RelativeToolTip": "Models\\Taikhoan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:35:18.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:35:18.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Sinhvien.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Sinhvien.cs",
               "RelativeDocumentMoniker": "Models\\Sinhvien.cs",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Models\\Sinhvien.cs",
               "RelativeToolTip": "Models\\Sinhvien.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T13:05:39.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T13:05:39.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "SinhVienDbContext.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Contexts\\SinhVienDbContext.cs",
               "RelativeDocumentMoniker": "Contexts\\SinhVienDbContext.cs",
@@ -439,12 +472,11 @@
               "RelativeToolTip": "Contexts\\SinhVienDbContext.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAkwFMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T13:05:25.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T13:05:25.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
@@ -456,19 +488,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 15,
               "Title": "login.js",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
               "RelativeDocumentMoniker": "wwwroot\\assets\\js\\login.js",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
               "RelativeToolTip": "wwwroot\\assets\\js\\login.js",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-20T05:30:33.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 5,
               "Title": "animation.js",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
               "RelativeDocumentMoniker": "wwwroot\\assets\\js\\animation.js",
@@ -480,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 14,
               "Title": "login.html",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
               "RelativeDocumentMoniker": "wwwroot\\login.html",
@@ -492,20 +524,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "welcome.js",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
               "RelativeDocumentMoniker": "wwwroot\\assets\\js\\welcome.js",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\welcome.js",
               "RelativeToolTip": "wwwroot\\assets\\js\\welcome.js",
-              "ViewState": "AgIAAEUBAAAAAAAAAAAiwGIBAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAABAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-20T05:16:34.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T05:16:34.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "logout.js",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\logout.js",
               "RelativeDocumentMoniker": "wwwroot\\assets\\js\\logout.js",
@@ -517,20 +548,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "welcome.html",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
               "RelativeDocumentMoniker": "wwwroot\\welcome.html",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",
               "RelativeToolTip": "wwwroot\\welcome.html",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAQwHoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwJ8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-20T05:13:39.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T05:13:39.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -542,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -550,12 +580,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAOgUAAAAAAAAAAAMwPMUAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-20T02:36:08.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T02:36:08.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "NewFile",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\NewFile",
               "RelativeDocumentMoniker": "Controllers\\NewFile",
@@ -566,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -578,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "AuthorizeRoleAttribute.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Middleware\\AuthorizeRoleAttribute.cs",
               "RelativeDocumentMoniker": "Middleware\\AuthorizeRoleAttribute.cs",
@@ -590,32 +619,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T01:38:55.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAMwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:38:23.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T01:38:23.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -627,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -635,13 +663,20 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T01:32:57.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T01:32:57.469Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         },
         {
-          "DockedWidth": 26,
+          "DockedWidth": 95,
           "SelectedChildIndex": -1,
           "Children": [
             {

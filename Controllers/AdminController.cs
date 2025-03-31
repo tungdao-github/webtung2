@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -26,13 +26,13 @@ namespace WebApplication2.Controllers
         }
 
         [HttpPost("import-excel")]
-        public async Task<IActionResult> ImportExcel(IFormFile file)
+        public async Task<IActionResult> ImportExcel([FromForm] IFormFile file)
         {
             if (file == null || file.Length == 0)
                 return BadRequest("Vui lòng chọn file Excel.");
 
             var students = new List<Sinhvien>();
-            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+            //ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
             using (var stream = new MemoryStream())
             {
@@ -66,6 +66,8 @@ namespace WebApplication2.Controllers
                             existingStudent.TrungBinhTrungTichLuy = float.TryParse(worksheet.Cells[row, 11].Text, out var tbtt) ? tbtt : existingStudent.TrungBinhTrungTichLuy;
                             existingStudent.SoLuongDiemF = int.TryParse(worksheet.Cells[row, 12].Text, out var diemF) ? diemF : existingStudent.SoLuongDiemF;
                             existingStudent.TinhTrangHocTap = worksheet.Cells[row, 13].Text;
+                            existingStudent.XepLoai = worksheet.Cells[row, 14].Text;
+                            existingStudent.CoVanHocTap = worksheet.Cells[row, 15].Text;
                         }
                         else
                         {
@@ -83,7 +85,9 @@ namespace WebApplication2.Controllers
                                 HocPhi = decimal.TryParse(worksheet.Cells[row, 10].Text, out var hp) ? hp : (decimal?)null,
                                 TrungBinhTrungTichLuy = float.TryParse(worksheet.Cells[row, 11].Text, out var tbt) ? tbt : (float?)null,
                                 SoLuongDiemF = int.TryParse(worksheet.Cells[row, 12].Text, out var sf) ? sf : (int?)null,
-                                TinhTrangHocTap = worksheet.Cells[row, 13].Text
+                                TinhTrangHocTap = worksheet.Cells[row, 13].Text,
+                                XepLoai = worksheet.Cells[row, 14].Text,
+                                CoVanHocTap = worksheet.Cells[row, 15].Text
                             };
                             students.Add(student);
                         }

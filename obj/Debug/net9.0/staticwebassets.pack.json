@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\—Pngtree—user flat character avatar png_4651285.png"
     },
     {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\admin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin.js"
+    },
+    {
       "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\animation.js",
       "PackagePath": "staticwebassets\\assets\\js\\animation.js"
     },
@@ -159,6 +163,10 @@
     {
       "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\default-avatar.png",
       "PackagePath": "staticwebassets\\uploads\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\uploads\\sv1.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\sv1.xlsx"
     },
     {
       "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\welcome.html",

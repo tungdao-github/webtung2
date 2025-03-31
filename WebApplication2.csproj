@@ -9,7 +9,7 @@
    
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
    
-    <PackageReference Include="EPPlus" Version="7.6.1" />
+    <PackageReference Include="EPPlus" Version="7.0.4" />
    
     <PackageReference Include="MailKit" Version="4.10.0" />
    
@@ -50,6 +50,7 @@
     <_ContentIncludedByDefault Remove="TestApp\Pages\Shared\_ValidationScriptsPartial.cshtml" />
     <_ContentIncludedByDefault Remove="TestApp\Pages\_ViewImports.cshtml" />
     <_ContentIncludedByDefault Remove="TestApp\Pages\_ViewStart.cshtml" />
+	  <!--<Compile Include="Models\Sinhvien.cs" /> -->
   </ItemGroup>
 
 </Project>
