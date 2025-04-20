@@ -36,19 +36,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function validateForm() {
         let isValid = true;
-        const email = document.getElementById('username').value;
+        const maSinhVien = document.getElementById('maSinhVien').value;
         const password = document.getElementById('password').value;
 
         emailError.textContent = '';
         passwordError.textContent = '';
 
-        if (!email) {
-            emailError.textContent = 'Vui lòng nhập email';
-            isValid = false;
-        } else if (!/\S+@\S+\.\S+/.test(email)) {
-            emailError.textContent = 'Email không hợp lệ';
-            isValid = false;
-        }
+        // if (!maSinhVien) {
+        //     emailError.textContent = 'Vui lòng nhập maSinhVien';
+        //     isValid = false;
+        // } else if (!/\S+@\S+\.\S+/.test(email)) {
+        //     emailError.textContent = 'maSinhVien không hợp lệ';
+        //     isValid = false;
+        // }
 
         if (!password) {
             passwordError.textContent = 'Vui lòng nhập mật khẩu';
@@ -63,14 +63,14 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
 
-        const email = document.getElementById('username').value;
+        const maSinhVien = document.getElementById('maSinhVien').value;
         const password = document.getElementById('password').value;
 
         loadingIndicator.style.display = 'block';
         loginBtn.disabled = true;
 
         const loginData = {
-            email: email,
+            maSinhVien: maSinhVien,
             password: password
         };
 

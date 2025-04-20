@@ -857,7 +857,6 @@ C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\scopedcss\bundle\Web
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\ahgxmhjx9h-ja8e0xzaea.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\sohxbtxu5s-8z0ayvm2oe.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\6o4ojoy3xt-6wqu2ci2nb.gz
-C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\owdvrpzqyz-5w6kn2fhvv.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\p8inng1eu7-60e98wm3wp.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\s90axyl5xe-lz99nu85vv.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\36xhwmshhj-oj6kczr5qf.gz
@@ -866,7 +865,6 @@ C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\vd42zt2zh
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\0zqxnug55f-lbgovopqpl.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\4urashli7c-2hjl2mnaa7.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\2yanz1hut2-qe4qxqdqdm.gz
-C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\xycdc7g20s-bl27lxjidt.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\zozjnw4576-efp4qoys43.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\5zz43mqbou-5ipweew5fc.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\bejb82qb36-qun414qbzx.gz
@@ -887,3 +885,6 @@ C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\WebApplication2.genr
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\ref\WebApplication2.dll
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\o6seuo3zji-4ti2gburpt.gz
 C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\v5cuqp81v5-7sexbu213t.gz
+C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\owdvrpzqyz-aiyaxuttpb.gz
+C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\8hx8sevz5n-9t880tgfvc.gz
+C:\Users\TUNG\source\repos\WebApplication4\obj\Debug\net9.0\compressed\xycdc7g20s-wr9nfqoguy.gz

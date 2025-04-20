@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dCuz78Lf6Y8YwJoF1MGT4yTiBMqvnSwH8DronF4pSf0=",
+  "Hash": "3Ejbbzmk856hClFRH1AUWKIqKb/U5T1fRu9nocqOOJc=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -143,6 +143,27 @@
       "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\learn.js"
     },
     {
+      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\8hx8sevz5n-9t880tgfvc.gz",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "forgot-password#[.{fingerprint=9t880tgfvc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\forgot-password.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ccyhkwpozi",
+      "Integrity": "HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\forgot-password.html"
+    },
+    {
       "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\ahgxmhjx9h-ja8e0xzaea.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
@@ -227,12 +248,12 @@
       "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\admin.html"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-aiyaxuttpb.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
-      "RelativePath": "assets/js/login#[.{fingerprint=5w6kn2fhvv}]?.js.gz",
+      "RelativePath": "assets/js/login#[.{fingerprint=aiyaxuttpb}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -241,8 +262,8 @@
       "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e19zfhe6vd",
-      "Integrity": "fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=",
+      "Fingerprint": "chj9f154bo",
+      "Integrity": "INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js"
@@ -353,12 +374,12 @@
       "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\style\\info.css"
     },
     {
-      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-wr9nfqoguy.gz",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication2",
-      "RelativePath": "login#[.{fingerprint=bl27lxjidt}]?.html.gz",
+      "RelativePath": "login#[.{fingerprint=wr9nfqoguy}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -367,8 +388,8 @@
       "RelatedAsset": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wcawcrug4v",
-      "Integrity": "cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc=",
+      "Fingerprint": "wjlo43an8e",
+      "Integrity": "5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html"
@@ -829,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5w6kn2fhvv",
-      "Integrity": "5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=",
+      "Fingerprint": "aiyaxuttpb",
+      "Integrity": "zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\login.js"
@@ -983,6 +1004,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\style\\style.css"
     },
     {
+      "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\forgot-password.html",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "forgot-password#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9t880tgfvc",
+      "Integrity": "nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\forgot-password.html"
+    },
+    {
       "Identity": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
@@ -1018,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bl27lxjidt",
-      "Integrity": "3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8=",
+      "Fingerprint": "wr9nfqoguy",
+      "Integrity": "PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\login.html"
@@ -4020,13 +4062,13 @@
       ]
     },
     {
-      "Route": "assets/js/login.5w6kn2fhvv.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "Route": "assets/js/login.aiyaxuttpb.js",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-aiyaxuttpb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000533902830"
+          "Quality": "0.000524383849"
         }
       ],
       "ResponseHeaders": [
@@ -4036,15 +4078,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1906"
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 13:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4064,13 +4106,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "W/\"zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6kn2fhvv"
+          "Value": "aiyaxuttpb"
         },
         {
           "Name": "label",
@@ -4078,12 +4120,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ="
         }
       ]
     },
     {
-      "Route": "assets/js/login.5w6kn2fhvv.js",
+      "Route": "assets/js/login.aiyaxuttpb.js",
       "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\assets\\js\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4093,7 +4135,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6553"
+          "Value": "6613"
         },
         {
           "Name": "Content-Type",
@@ -4101,11 +4143,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "\"zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 13:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4115,7 +4157,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6kn2fhvv"
+          "Value": "aiyaxuttpb"
         },
         {
           "Name": "label",
@@ -4123,13 +4165,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ="
         }
       ]
     },
     {
-      "Route": "assets/js/login.5w6kn2fhvv.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "Route": "assets/js/login.aiyaxuttpb.js.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-aiyaxuttpb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4138,7 +4180,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1906"
         },
         {
           "Name": "Content-Type",
@@ -4146,11 +4188,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 13:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4168,7 +4210,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6kn2fhvv"
+          "Value": "aiyaxuttpb"
         },
         {
           "Name": "label",
@@ -4176,18 +4218,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8="
+          "Value": "sha256-INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE="
         }
       ]
     },
     {
       "Route": "assets/js/login.js",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-aiyaxuttpb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000533902830"
+          "Quality": "0.000524383849"
         }
       ],
       "ResponseHeaders": [
@@ -4197,15 +4239,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1906"
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 13:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4225,13 +4267,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "W/\"zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ="
         }
       ]
     },
@@ -4246,7 +4288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6553"
+          "Value": "6613"
         },
         {
           "Name": "Content-Type",
@@ -4254,11 +4296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k=\""
+          "Value": "\"zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 13:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4268,13 +4310,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5U4QGA5GLdgYGNIWo7IS41aLxmhqmXcDw1UPy5HFU9k="
+          "Value": "sha256-zikE7bfv2JKTJ0y6ioNcuqFuOJHdskLM4OLhSINsUDQ="
         }
       ]
     },
     {
       "Route": "assets/js/login.js.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-5w6kn2fhvv.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\owdvrpzqyz-aiyaxuttpb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4283,7 +4325,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1872"
+          "Value": "1906"
         },
         {
           "Name": "Content-Type",
@@ -4291,11 +4333,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8=\""
+          "Value": "\"INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 13:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4313,7 +4355,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fjSmhrE0scm3NBsVcMGXOCgiiuoEQTvcrTzl3J9G8E8="
+          "Value": "sha256-INJeJOJ061SECPiWISfVXADHKmZ8Wu4z/WP5gNbdrXE="
         }
       ]
     },
@@ -6404,6 +6446,304 @@
       ]
     },
     {
+      "Route": "forgot-password.9t880tgfvc.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\8hx8sevz5n-9t880tgfvc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001610305958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9t880tgfvc"
+        },
+        {
+          "Name": "label",
+          "Value": "forgot-password.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag="
+        }
+      ]
+    },
+    {
+      "Route": "forgot-password.9t880tgfvc.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\forgot-password.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9t880tgfvc"
+        },
+        {
+          "Name": "label",
+          "Value": "forgot-password.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag="
+        }
+      ]
+    },
+    {
+      "Route": "forgot-password.9t880tgfvc.html.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\8hx8sevz5n-9t880tgfvc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9t880tgfvc"
+        },
+        {
+          "Name": "label",
+          "Value": "forgot-password.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA="
+        }
+      ]
+    },
+    {
+      "Route": "forgot-password.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\8hx8sevz5n-9t880tgfvc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001610305958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag="
+        }
+      ]
+    },
+    {
+      "Route": "forgot-password.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\forgot-password.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTIA/bXRw09qmbq54qOTrGlDUZD9SRVEIY+Gie24hag="
+        }
+      ]
+    },
+    {
+      "Route": "forgot-password.html.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\8hx8sevz5n-9t880tgfvc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HGwrdfJgus0u+7EgcSMak58P7DKZVM0kCpQd+LGQjzA="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\2yanz1hut2-qe4qxqdqdm.gz",
       "Selectors": [
@@ -6702,13 +7042,13 @@
       ]
     },
     {
-      "Route": "login.bl27lxjidt.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-wr9nfqoguy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001078748652"
+          "Quality": "0.001028806584"
         }
       ],
       "ResponseHeaders": [
@@ -6718,19 +7058,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "926"
+          "Value": "971"
         },
         {
           "Name": "ETag",
-          "Value": "\"cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc=\""
+          "Value": "\"5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 15:52:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -6746,26 +7086,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8=\""
+          "Value": "W/\"PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bl27lxjidt"
-        },
-        {
-          "Name": "label",
-          "Value": "login.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8="
+          "Value": "sha256-PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs="
         }
       ]
     },
     {
-      "Route": "login.bl27lxjidt.html",
+      "Route": "login.html",
       "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6775,7 +7107,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2664"
+          "Value": "2722"
         },
         {
           "Name": "Content-Type",
@@ -6783,11 +7115,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8=\""
+          "Value": "\"PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 15:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs="
+        }
+      ]
+    },
+    {
+      "Route": "login.html.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-wr9nfqoguy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E="
+        }
+      ]
+    },
+    {
+      "Route": "login.wr9nfqoguy.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-wr9nfqoguy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001028806584"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wr9nfqoguy"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs="
+        }
+      ]
+    },
+    {
+      "Route": "login.wr9nfqoguy.html",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:52:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6797,7 +7274,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bl27lxjidt"
+          "Value": "wr9nfqoguy"
         },
         {
           "Name": "label",
@@ -6805,13 +7282,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8="
+          "Value": "sha256-PChptTmjZPURaABL6moFVijXFD4rKvN3JYFn/SfCFAs="
         }
       ]
     },
     {
-      "Route": "login.bl27lxjidt.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
+      "Route": "login.wr9nfqoguy.html.gz",
+      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-wr9nfqoguy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6820,7 +7297,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "926"
+          "Value": "971"
         },
         {
           "Name": "Content-Type",
@@ -6828,11 +7305,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc=\""
+          "Value": "\"5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
+          "Value": "Sat, 19 Apr 2025 15:52:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6850,7 +7327,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bl27lxjidt"
+          "Value": "wr9nfqoguy"
         },
         {
           "Name": "label",
@@ -6858,144 +7335,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc="
-        }
-      ]
-    },
-    {
-      "Route": "login.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001078748652"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "926"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8="
-        }
-      ]
-    },
-    {
-      "Route": "login.html",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\login.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2664"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3xG+X2uDFmJw+ylOz2cfaprOkrIPq5oJGU53SMwoVR8="
-        }
-      ]
-    },
-    {
-      "Route": "login.html.gz",
-      "AssetFile": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\obj\\Debug\\net9.0\\compressed\\xycdc7g20s-bl27lxjidt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "926"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:09:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cLQRRRje1YAwW49tDHwRGgZHh/sh35ArPzTItOa9vjc="
+          "Value": "sha256-5Ky546gHRt6Ubsw2TGO//Ylfbv1ouvsaUJ0yZKTKQ+E="
         }
       ]
     },

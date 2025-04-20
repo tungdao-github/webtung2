@@ -27,14 +27,14 @@ public class LoginController : Controller
     {
         var user = await _context.Taikhoans
             .Include(t => t.VaiTro)
-            .FirstOrDefaultAsync(t => t.Gmail == request.Email);
-
+            .FirstOrDefaultAsync(t => t.MaSinhVien == request.MaSinhVien);
+        
         if (user == null || !BCrypt.Net.BCrypt.Verify(request.Password, user.MatKhau)) 
             return Unauthorized(new { Message = "dang nhap false" });
 
         // Tạo JWT Token
         var token = GenerateJwtToken(user);
-        Console.WriteLine($"Đăng nhập với email: {request.Email}");
+        Console.WriteLine($"Đăng nhập với email: {request.MaSinhVien}");
         Console.WriteLine($"Mật khẩu nhập vào: {request.Password}");
         return Ok(new { Token = token });
 
@@ -110,7 +110,7 @@ public class LoginController : Controller
     
     public class LoginRequest
     {
-        public string Email { get; set; }
+        public string MaSinhVien { get; set; }
         public string Password { get; set; }
     }
 }

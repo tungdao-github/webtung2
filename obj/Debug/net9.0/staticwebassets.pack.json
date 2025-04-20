@@ -113,6 +113,10 @@
       "PackagePath": "staticwebassets\\assets\\style\\style.css"
     },
     {
+      "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\forgot-password.html",
+      "PackagePath": "staticwebassets\\forgot-password.html"
+    },
+    {
       "Id": "C:\\Users\\TUNG\\source\\repos\\WebApplication4\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
