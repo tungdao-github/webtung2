@@ -92,7 +92,7 @@ public class PasswordResetController : ControllerBase
 
         return Ok("Đặt lại mật khẩu thành công.");
     }
-
+    //
     private string HashPassword(string password)
     {
         // Có thể dùng BCrypt hoặc SHA256
